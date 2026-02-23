@@ -23,7 +23,7 @@ Al ejecutar el programa, se observa que:
         La tarea asíncrona se ejecuta sin bloquear el flujo del programa, usando un solo hilo.
         Esto demuestra cómo cada técnica maneja la concurrencia de forma distinta.
 
-        <img width="370" height="186" alt="image" src="https://github.com/user-attachments/assets/7ab729b3-63b1-4bb3-a0c4-c92b98e6d285" />
+<img width="370" height="186" alt="image" src="https://github.com/user-attachments/assets/7ab729b3-63b1-4bb3-a0c4-c92b98e6d285" />
 
 
 Conclusión_______________________________________________________________________________________
